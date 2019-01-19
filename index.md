@@ -4,6 +4,9 @@
 Please link to this site using [https://anmarianne.github.io/](https://anmarianne.github.io/).
 
 Twitter:[@abemgnigni](https://twitter.com/abemgnigni)
+LinkedIn:[Marianne ABEMGNIGNI NJIFON]https://www.linkedin.com/in/marianne-abemgnigni-njifon-931142150/
+Facebook:[Marianne ABEMGNIGNI NJIFON](https://www.facebook.com/marianne.abemgnigninjifon)
+Skype:[live:marianne.abemgnigni](live:marianne.abemgnigni)
 
 Looking forward to becoming a talented researcher in Machine Learning. Because of my prior background in Physics, I am motivated about Quantum Machine Learning. But I am very excited about image captioning, still trying some mini projects on that field. I am undertaking a Master in Machine Learning in Kigali. My best wishes for the end of the program: going for an internship. 
 
