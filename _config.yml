@@ -16,9 +16,9 @@ https://anmarianne.github.io/# Welcome to Jekyll!
 title: Welcome to my webpage
 email: nabemgnigni@aimsammi.org
 description: >- # this means to ignore newlines until "baseurl:"
-   Master in Physics at University Of Yaounde I,
-   Master in Mathematical Sciences at AIMS (African Institute for Mathematical Sciences),
-   AMMI ( African Master of Machine Intelligence, expected graduation in JUne 2019) at Kigali, Rwanda.
+  Master in Physics at University Of Yaounde I,
+  Master in Mathematical Sciences at African Institute for Mathematical Sciences,
+  African Master of Machine Intelligence, expected graduation in JUne 2019 at Kigali, Rwanda.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anmarianne.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
