@@ -13,15 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mathematics for Machine Learning
-email: feedback@mml-book.com
+title: Welcome to my weppage
+email: nabemgnigni@aimsammi.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Companion webpage to the book "Mathematics for Machine Learning".
-  Copyright 2018 by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong. To be published by Cambridge University Press.
+  I am passionate by Machine Learning. So far I enjoyed Statistical Machine Learning with Marc Peter Deisenroth, Deep Learning with
+  Francois Fleuret, Alfredo Canzieni and Ritchie Ng, and Reinforcement Learning with Joelle Pineau and Benjamin Rosman.
+  Copyright 2018 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mml-book.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
-github_username:  mml-book
+github_username:  ANMarianne
 
 # Build settings
 markdown: kramdown
