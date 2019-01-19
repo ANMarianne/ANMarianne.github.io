@@ -13,14 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Welcome to my weppage
+title: Welcome to my webpage
 email: nabemgnigni@aimsammi.org
 description: >- # this means to ignore newlines until "baseurl:"
-Master in Physics - University Of Yaounde I, Master in Mathematical Sciences - AIMS (African Institute for Mathematical Sciences),
-Cameroon, AMMI ( African Master of Machine Intelligence, expected graduation in JUne 2019) ; KIgali, Rwanda.
+Master in Physics : University Of Yaounde I,
+Master in Mathematical Sciences : AIMS (African Institute for Mathematical Sciences)
+AMMI ( African Master of Machine Intelligence, expected graduation in JUne 2019) : KIgali, Rwanda.
   Copyright 2018 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mml-book.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://anmarianne.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
 github_username:  ANMarianne
 
