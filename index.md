@@ -9,10 +9,11 @@ Please link to this site using [https://anmarianne.github.io/](https://anmariann
 **Master in Mathematical Sciences** at African Institute for Mathematical Sciences, Limbe, Cameroon;
 
 **African Master of Machine Intelligence**, expected graduation in JUne 2019 at Kigali, Rwanda.
+ 
 
 
 
-![Official Launching of AMMI](https://github.com/ANMarianne/ANMarianne.github.io/blob/master/IMG-20181015-WA0013.jpg)
+![Official Launching of AMMI](ANMarianne.github.io/IMG-20181015-WA0013.jpg)
 
 Twitter:[@abemgnigni](https://twitter.com/abemgnigni)
 
