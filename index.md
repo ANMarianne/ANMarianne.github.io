@@ -8,7 +8,7 @@ Please link to this site using [https://anmarianne.github.io/](https://anmariann
 
 **Master in Mathematical Sciences** at African Institute for Mathematical Sciences, Limbe, Cameroon;
 
-**African Master of Machine Intelligence**, expected graduation in JUne 2019 at Kigali, Rwanda.
+**African Master of Machine Intelligence**, expected graduation in June 2019 at Kigali, Rwanda.
  
 
 
