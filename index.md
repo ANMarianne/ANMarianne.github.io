@@ -13,10 +13,11 @@ Email: nabemgnigni at aimsammi dot org
 ### About me
 I am a PhD Student at the University of Goettingen working on Graph Convolutional Networks and Spatial Statistics. I am honoured to be supervised by Pr. Dominic Schuhmacher. I am interested in developing Graph-based machine learning methods and investigating their mathematical foundations pertaining to their robustness and Interpretability. I am currently working on applications using Spatial data.
 
-Previously I was an AI Resident in the GoogleBrain Accra Lab where I worked on frequency analysis to improve the robustness of Deep Neural Networks. I also  was a research Intern in the Deep Learning Embedded group at DeepMind in London. I was part of the first cohort of the African Master's of Machine Intelligence in Rwanda. Before that, I completed the AIMS Cameroon Master's in Mathematical Sciences as a Mastercard Scholar, where I graduated with honours and as the second best female student.I also a Master in Physics from the University of Yaounde I. 
+Previously I was an AI Resident in the Google Brain Accra Lab where I worked on frequency analysis to improve the robustness of Deep Neural Networks. I also  was a research intern in the Deep Learning Embedded group at DeepMind in London. I was part of the first cohort of the [African Master's of Machine Intelligence](https://nexteinstein.org/aims-launches-first-of-its-kind-african-masters-in-machine-intelligence-at-rwanda-campus/) in Rwanda. Before that, I completed the AIMS Cameroon Master's in Mathematical Sciences as a [Mastercard Foundation Scholar](https://mastercardfdn.org/all/scholars/), where I graduated with honours and as the second best female student. I also hold a Master in Physics from the University of Yaounde I. 
 
-In addition to Machine Learning research, I am also passionate about Physics, especially Nonlinear Optics. I am currenly investigating the propagation of Few-cycle pulses in both Magnetic and non-magnetic Materials. Please check out our paper on this [topic](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331) that was published in the Journal of Optical Society of America.
-Co-lead of Bel's AI Initiative, I am part of the WIMLDS Yaounde chapter, and member of KMERAI.
+In addition to Machine Learning research, I am also passionate about Physics, especially Nonlinear Optics. I am currenly investigating the propagation of Few-cycle pulses in magnetic and non-magnetic materials. Please check out our paper on this [topic](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331) that was published in the Journal of Optical Society of America.
+
+Outside of research, I am an advocate for promoting the study of AI and STEM by underrepresented communities, especially in Africa. I am co-lead of [Bel's AI Initiative](https://www.linkedin.com/company/79720797) which conducts outreach about AI in Central Africa with a focus on rural area communities. I also serve as a mentor to Bel's AI members. I am part of the [WIMLDS Yaounde chapter](http://wimlds.org/about-the-yaounde-team-2/), and co-organiser of [KMERAI](https://sites.google.com/view/kmerai-2021/home?authuser=0) events.
 
 If you would like to connect, please reach out at: nabemgnigni at aimsammi dot org
 
@@ -30,6 +31,9 @@ If you would like to connect, please reach out at: nabemgnigni at aimsammi dot o
   - Excited to start my PhD with Pr. Dominic Schuhmacher, in the Research training group RTG2088 at the University of Goettingen, Germany.
   - I just wrapped my AI residency i the Brain team at the Google AI Accra Lab.Thank you to my incredible mentor Yann Dauphin, and to all my colleagues.
   - It was great spending the past three months in the Deep Learning Embedded group at Deepmind as a Research Intern. I worked on Instance Segmentation projects and learned a lot from my mentor Aidan Clark.
+
+### Publications
+   - [Few-cycle optical pulses in negative index materials with dispersive permittivity and permeability](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331),  **Marianne ABEMGNIGNI NJIFON**, Conrad Bertrand TABI, Timoleon Crepin KOFANE, vol. 37, No. 11, Journal of the Optical Society of America B, 2020.
 
  
   
