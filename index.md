@@ -1,6 +1,3 @@
----
----
-
 
 !["Nothing happens until something moves" (Albert Einstein.)](./pink_pic.jpg)
 
