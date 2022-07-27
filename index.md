@@ -20,7 +20,13 @@ If you would like to connect, please reach out at: nabemgnigni at aimsammi dot o
 
 ### News
   - It was a privilage to attend the wonderful [Probai](https://probabilistic.ai/) summer school in Helsinki.
-  - Excited to share my interview with words that [count](https://wordsthatcount.org/women-in-machine-learning-abemgnigni-njifon-marianne/)
+  - Excited to share my interview about my experience with [wordsthatcount](https://wordsthatcount.org/women-in-machine-learning-abemgnigni-njifon-marianne/)
+  - It was an honour to present my Physics works as an Invited Speaker at the Third Global Summit on Physics, GSP 2021.
+  - It was a pleasure to give a talk at IndabaX Zimbambwe, 2021
+  - I was thrilled to speak about the Pro's and Con's of AI in Healthcare, at the KMERAI workshop, 2021.
+  - Excited to start my PhD with Pr. Dominic Schuhmacher, in the Research training group RTG2088 at the University of Goettingen, Germany.
+  - I just wrapped my AI residency i the Brain team at the Google AI Accra Lab.Thank you to my incredible mentor Yann Dauphin, and to all my colleagues.
+
  
   
   
