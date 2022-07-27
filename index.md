@@ -19,7 +19,7 @@ If you would like to connect, please reach out at: nabemgnigni at aimsammi dot o
 
 
 ### News
-  - It was a privilage to attend the wonderful [Probai](https://probabilistic.ai/) summer school in Helsinki.
+  - It was a privilege to attend the wonderful [Probai](https://probabilistic.ai/) summer school in Helsinki.
   - Excited to share my interview about my experience with [wordsthatcount](https://wordsthatcount.org/women-in-machine-learning-abemgnigni-njifon-marianne/)
   - It was an honour to present my Physics works as an Invited Speaker at the Third Global Summit on Physics, GSP 2021.
   - It was a pleasure to give a talk at IndabaX Zimbambwe, 2021
