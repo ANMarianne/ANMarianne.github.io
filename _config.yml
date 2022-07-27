@@ -18,9 +18,9 @@ title: ABEMGNIGNI NJIFON Marianne
 email: nabemgnigni@aimsammi.org
 description: >- # this means to ignore newlines until "baseurl:"
   PhD student at the University of Goettingen,
-  Master in Machine Learning at AMMI Rwanda,
-  Master in Mathematical Sciences at AIMS Cameroon
-  Master in Physics at University Of Yaounde.
+  #Master in Machine Learning at AMMI Rwanda,
+  #Master in Mathematical Sciences at AIMS Cameroon
+  #Master in Physics at University Of Yaounde.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anmarianne.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ""
