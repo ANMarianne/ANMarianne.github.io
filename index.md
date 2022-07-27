@@ -1,12 +1,6 @@
 ---
 ---
 
-Please link to this site using [https://anmarianne.github.io/](https://anmarianne.github.io/).
-
-
- 
-
-
 
 !["Nothing happens until something moves" (Albert Einstein.)](./pink_pic.jpg)
 
@@ -26,7 +20,6 @@ If you would like to connect, please reach out at: nabemgnigni at aimsammi dot o
 
 ### News
   - Excited to share my interview with words that [count](https://wordsthatcount.org/women-in-machine-learning-abemgnigni-njifon-marianne/)
-  - 
   
   
 
