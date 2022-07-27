@@ -1,8 +1,3 @@
-# ANMarianne.github.io
-  
-
-Please link to this site using [https://anmarianne.github.io/](https://anmarianne.github.io/).
-
 
 ![Smile :-)](/pink_pic.jpg)
 
