@@ -26,6 +26,7 @@ If you would like to connect, please reach out at: nabemgnigni at aimsammi dot o
   - I was thrilled to speak about the Pro's and Con's of AI in Healthcare, at the KMERAI workshop, 2021.
   - Excited to start my PhD with Pr. Dominic Schuhmacher, in the Research training group RTG2088 at the University of Goettingen, Germany.
   - I just wrapped my AI residency i the Brain team at the Google AI Accra Lab.Thank you to my incredible mentor Yann Dauphin, and to all my colleagues.
+  - It was great spending the past three months in the Deep Learning Embedded group at Deepmind as a Research Intern. I worked on Instance Segmentation projects and learned a lot from my mentor Aidnn Clark.
 
  
   
