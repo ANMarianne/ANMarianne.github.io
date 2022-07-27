@@ -28,7 +28,7 @@ github_username:  ANMarianne
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman #jekyll-theme-modernist
 plugins:
   - jekyll-feed
 # github:
