@@ -1,4 +1,5 @@
-#https://anmarianne.github.io/# Welcome to Jekyll!
+# https://anmarianne.github.io/
+# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -28,9 +29,12 @@ github_username:  ANMarianne
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-modernist
+github:
+  is_project_page: false
 plugins:
   - jekyll-feed
-
+  - Gemfile
+  -Gemfile.lock
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
