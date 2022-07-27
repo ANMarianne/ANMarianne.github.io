@@ -11,9 +11,12 @@ LinkedIn:[Marianne ABEMGNIGNI NJIFON](https://www.linkedin.com/in/marianne-abemg
 Email: nabemgnigni at aimsammi dot org
 
 ### About me
-I am a PhD Student at the University of Goettingen working on Graph Convolutional Networks and Spatial Statistics. Previously I was an AI Resident at
-Google Accra and a research Intern at DeepMind. I hold a Master in Machine Learning from AMMI Rwanda, a Master in Mathematical Sciences from AIMS Cameroon,
-and a Master in Physics from the University of Yaounde I. I am both passionated about theoretical foundations of Machine Learning (its explainability, its robustness) and [Nonlinear Optics](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331). Co-lead of Bel's AI Initiative, I am part of the WIMLDS Yaounde chapter, and member of KMERAI.
+I am a PhD Student at the University of Goettingen working on Graph Convolutional Networks and Spatial Statistics. I am honoured to be supervised by Pr. Dominic Schuhmacher. I am interested in developing Graph-based machine learning methods and investigating their mathematical foundations pertaining to their robustness and Interpretability. I am currently working on applications using Spatial data.
+
+Previously I was an AI Resident in the GoogleBrain Accra Lab where I worked on frequency analysis to improve the robustness of Deep Neural Networks. I also  was a research Intern in the Deep Learning Embedded group at DeepMind in London. I was part of the first cohort of the African Master's of Machine Intelligence in Rwanda. Before that, I completed the AIMS Cameroon Master's in Mathematical Sciences as a Mastercard Scholar, where I graduated with honours and as the second best female student.I also a Master in Physics from the University of Yaounde I. 
+
+In addition to Machine Learning research, I am also passionate about Physics, especially Nonlinear Optics. I am currenly investigating the propagation of Few-cycle pulses in both Magnetic and non-magnetic Materials. Please check out our paper on this [topic](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331) that was published in the Journal of Optical Society of America.
+Co-lead of Bel's AI Initiative, I am part of the WIMLDS Yaounde chapter, and member of KMERAI.
 
 If you would like to connect, please reach out at: nabemgnigni at aimsammi dot org
 
