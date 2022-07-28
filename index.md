@@ -16,7 +16,7 @@ In addition to Machine Learning research, I am passionate about Physics, especia
 
 Outside of research, I am an advocate for promoting the study of AI and STEM by underrepresented communities, especially in Africa. I am co-lead of [Bel's AI Initiative](https://www.linkedin.com/company/79720797) which conducts outreach about AI in Central Africa with a focus on rural areas. I serve as a mentor to Bel's AI members. I am part of the [WIMLDS Yaounde chapter](http://wimlds.org/about-the-yaounde-team-2/), and co-organiser of [KMERAI](https://sites.google.com/view/kmerai-2021/home?authuser=0) events.
 
-If you would like to connect, please reach out at: nabemgnigni at aimsammi dot org
+**If you would like to connect, please reach out at: nabemgnigni at aimsammi dot org**
 
 
 ### News
