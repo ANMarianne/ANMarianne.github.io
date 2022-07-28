@@ -27,7 +27,7 @@ Outside of research, I am an advocate for promoting the study of AI and STEM by 
   - I was thrilled to speak about the Pro's and Con's of AI in Healthcare, at the KMERAI workshop, 2021.
   - Excited to start my PhD with Pr. Dominic Schuhmacher, in the Research training group RTG2088 at the University of Goettingen, Germany.
   - I just wrapped my AI residency in the Brain team at the Google AI Accra Lab. Thank you to my incredible mentor [Yann Dauphin](https://www.dauphin.io/), and to all my colleagues.
-  - It was great spending the past three months in the Deep Learning Embedded group at Deepmind as a Research Intern. I worked on Instance Segmentation and learned a lot from my mentor Aidan Clark[https://www.linkedin.com/in/aidan-b-clark/].
+  - It was great spending the past three months in the Deep Learning Embedded group at Deepmind as a Research Intern. I worked on Instance Segmentation and learned a lot from my mentor [Aidan Clark](https://www.linkedin.com/in/aidan-b-clark/).
 
 ### Publications
    - [Few-cycle optical pulses in negative index materials with dispersive permittivity and permeability](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331),  **Marianne ABEMGNIGNI NJIFON**, Conrad Bertrand TABI, Timoleon Crepin KOFANE, vol. 37, No. 11, Journal of the Optical Society of America B, 2020.
