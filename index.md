@@ -31,7 +31,7 @@ Outside of research, I am an advocate for promoting the study of AI and STEM by 
   - It was great spending the past three months in the Deep Learning Embedded group at Deepmind as a Research Intern. I worked on Instance Segmentation and learned a lot from my mentor [Aidan Clark](https://www.linkedin.com/in/aidan-b-clark/).
 
 ### Publications
-   - [Robustmix: Improving Robustness by Regularizing the Frequency Bias of Deep Nets](https://openreview.net/pdf?id=Na64z0YpOx),  Jonas Ngnawe(*), **Marianne ABEMGNIGNI NJIFON(*)**, Jonathan Heek, Yann Dauphin, Accepted at the Neurips 2022 workshop on Distribution Shifts: Connecting Methods and Applications. ((*) stands for equal contribution.)
+   - [Robustmix: Improving Robustness by Regularizing the Frequency Bias of Deep Nets](https://openreview.net/pdf?id=Na64z0YpOx),  Jonas Ngnawe(#), **Marianne ABEMGNIGNI NJIFON(#)**, Jonathan Heek, Yann Dauphin, Accepted at the Neurips 2022 workshop on Distribution Shifts: Connecting Methods and Applications. ((#) stands for equal contribution.)
    - [Few-cycle optical pulses in negative index materials with dispersive permittivity and permeability](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331),  **Marianne ABEMGNIGNI NJIFON**, Conrad Bertrand TABI, Timoleon Crepin KOFANE, vol. 37, No. 11, Journal of the Optical Society of America B, 2020.
 
  
