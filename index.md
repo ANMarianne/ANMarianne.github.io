@@ -20,6 +20,7 @@ Outside of research, I am an advocate for promoting the study of AI and STEM by 
 
 
 ### News
+  - I was thrilled to be part of the program comittee at the Neurips 2022 [Interpolate workshop](https://sites.google.com/view/interpolation-workshop?pli=1), [AFCP workshop](https://www.afciworkshop.org/) and [BAI workshop](https://blackinai.github.io/#/workshop/bai2022).
   - It was a privilege to attend the wonderful [Probai](https://probabilistic.ai/) summer school in Helsinki.
   - Excited to share my interview about my experience with [wordsthatcount](https://wordsthatcount.org/women-in-machine-learning-abemgnigni-njifon-marianne/)
   - It was an honour to present my Physics works as an Invited Speaker at the Third Global Summit on Physics, GSP 2021.
@@ -30,6 +31,7 @@ Outside of research, I am an advocate for promoting the study of AI and STEM by 
   - It was great spending the past three months in the Deep Learning Embedded group at Deepmind as a Research Intern. I worked on Instance Segmentation and learned a lot from my mentor [Aidan Clark](https://www.linkedin.com/in/aidan-b-clark/).
 
 ### Publications
+   - [Robustmix: Improving Robustness by Regularizing the Frequency Bias of Deep Nets](https://openreview.net/pdf?id=Na64z0YpOx),  Jonas Ngnawe*, **Marianne ABEMGNIGNI NJIFON***, Jonathan Heek, Yann Dauphin, Accepted at the Neurips 2022 workshop on Distribution Shifts: Connecting Methods and Applications. (* stands for equal contribution.)
    - [Few-cycle optical pulses in negative index materials with dispersive permittivity and permeability](https://opg.optica.org/josab/abstract.cfm?uri=josab-37-11-a331),  **Marianne ABEMGNIGNI NJIFON**, Conrad Bertrand TABI, Timoleon Crepin KOFANE, vol. 37, No. 11, Journal of the Optical Society of America B, 2020.
 
  
